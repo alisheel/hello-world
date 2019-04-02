@@ -1,2 +1,5 @@
 # hello-world
-ideas/ resources
+
+me to me: please start coding more
+
+ cats are the superior pet
